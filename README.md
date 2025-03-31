@@ -3,6 +3,10 @@
 This project trains a Reinforcement Learning (REINFORCE) agent to play the **Chrome Dino game** using only game state data — no screenshots or computer vision.
 
 ---
+### 🎥 Demo
+
+![Dino Demo](demo.mp4)
+
 
 ## 🚀 Features
 
