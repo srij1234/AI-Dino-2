@@ -72,10 +72,12 @@ pip install tensorflow numpy websockets
 python test.py
 ```
 
+### 6. NOTE
+In case your model doesnt learn to dodge certain obstacles you can uncomment the forced learning code on lines 53-58, you can add more forced learning as per need.
 ---
 
 ## 🔪 Training Tips
-
+- A trained model has already been attached, you can train your own as well.
 - Let the model train for **100–300 episodes** for solid performance
 - `dino_reinforce.weights.h5` will auto-save between episodes
 - Forcing correct behavior for high flyers is implemented early in training
@@ -84,6 +86,6 @@ python test.py
 
 ## 👑 Author
 
-Built with frustration, persistence, and love.  
+Built with frustration and persistence.  
 Train your Dino, and let it conquer the desert 🏜️
 
