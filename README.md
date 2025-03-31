@@ -1,4 +1,4 @@
-# 🧖 Chrome Dino RL Agent
+# 🦖 Chrome Dino RL Agent
 
 This project trains a Reinforcement Learning (REINFORCE) agent to play the **Chrome Dino game** using only game state data — no screenshots or computer vision.
 
