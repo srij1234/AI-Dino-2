@@ -17,7 +17,7 @@ This project trains a Reinforcement Learning (REINFORCE) agent to play the **Chr
   - Obstacle type (cactus or PTERODACTYL)
   - Game speed
 - Handles **high-flying PTERODACTYLs** intelligently
-- Achieves scores well above **500+** with training
+- Achieves scores well above **2000+** with training
 - WebSocket connection between browser JS and Python backend
 
 ---
